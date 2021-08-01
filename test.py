@@ -1,2 +1,2 @@
-message = "Hello Ian Gully"
+message = "Hello from John Gully"
 print(message)
